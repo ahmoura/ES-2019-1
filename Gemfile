@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'solidus'
 gem 'solidus_auth_devise'
+gem 'seed_dump'
 
 gem 'rails-erd', group: :development
 
